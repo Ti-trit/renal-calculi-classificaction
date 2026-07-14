@@ -1,0 +1,8 @@
+{
+  "name": "xgboost_images_binario",
+  "output_dir": "experiments/xgboost/xgboost_images/xgboost_binario",
+  "class_names": [
+    "COM",
+    "Otros"
+  ]
+}

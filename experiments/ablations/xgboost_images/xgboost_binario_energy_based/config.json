@@ -1,0 +1,8 @@
+{
+  "name": "xgboost_images_binario",
+  "output_dir": "experiments/ablations/xgboost_images/xgboost_binario_energy_based",
+  "class_names": [
+    "COM",
+    "Otros"
+  ]
+}

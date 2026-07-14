@@ -1,0 +1,4 @@
+model,Accuracy,F1,Precision,Recall,AUC
+xgboost,—,—,—,—,—
+resnet50,—,—,—,—,—
+hybrid_resnet50,—,—,—,—,—

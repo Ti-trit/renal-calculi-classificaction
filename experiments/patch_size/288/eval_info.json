@@ -1,0 +1,11 @@
+{
+  "best_params_used": {
+    "max_depth": 3,
+    "min_child_weight": 2,
+    "n_estimators": 592,
+    "learning_rate": 0.03573430107539696,
+    "subsample": 0.5557870268487767,
+    "colsample_bytree": 0.41032175424979006
+  },
+  "use_sample_weight": false
+}

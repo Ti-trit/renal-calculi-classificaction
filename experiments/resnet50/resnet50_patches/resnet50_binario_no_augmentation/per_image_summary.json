@@ -1,0 +1,16 @@
+{
+  "specificity_weighted_mean": 0.8656228249354708,
+  "specificity_weighted_std": 0.03548249673568138,
+  "npv_weighted_mean": 0.8662131884963425,
+  "npv_weighted_std": 0.038756254510844045,
+  "recall_weighted_mean": 0.8624675613577395,
+  "recall_weighted_std": 0.038677413488759985,
+  "accuracy_mean": 0.8624675613577395,
+  "accuracy_std": 0.038677413488759985,
+  "f1_weighted_mean": 0.8616065614118217,
+  "f1_weighted_std": 0.03936429411174944,
+  "auc_weighted_mean": 0.9347639963607405,
+  "auc_weighted_std": 0.028268545223840324,
+  "precision_weighted_mean": 0.876478287718909,
+  "precision_weighted_std": 0.022748796858373832
+}

@@ -1,0 +1,13 @@
+\begin{tabular}{llllllllllr}
+\toprule
+model & \multicolumn{3}{c}{xgboost} & \multicolumn{3}{c}{resnet50} & \multicolumn{3}{c}{hybrid_resnet50} &  \\
+metric & precision & recall & f1 & precision & recall & f1 & precision & recall & f1 & support \\
+class &  &  &  &  &  &  &  &  &  &  \\
+\midrule
+\textbf{COM} & 75 ± 3 & 84 ± 6 & 79 ± 4 & 76 ± 3 & 89 ± 4 & 82 ± 2 & 76 ± 4 & 89 ± 4 & 82 ± 3 & 2767 \\
+\textbf{COD} & 45 ± 17 & 31 ± 25 & 30 ± 8 & 40 ± 15 & 22 ± 8 & 25 ± 4 & 44 ± 11 & 20 ± 5 & 27 ± 5 & 298 \\
+\textbf{Mixto} & 51 ± 15 & 52 ± 2 & 51 ± 9 & 54 ± 8 & 51 ± 5 & 52 ± 4 & 55 ± 9 & 53 ± 6 & 53 ± 3 & 1372 \\
+\textbf{Infeccioso} & 60 ± 19 & 50 ± 15 & 50 ± 8 & 62 ± 18 & 53 ± 13 & 54 ± 8 & 59 ± 21 & 54 ± 15 & 51 ± 6 & 485 \\
+\textbf{Urico} & 60 ± 14 & 57 ± 19 & 55 ± 11 & 65 ± 12 & 61 ± 14 & 61 ± 10 & 74 ± 9 & 61 ± 16 & 65 ± 10 & 368 \\
+\bottomrule
+\end{tabular}

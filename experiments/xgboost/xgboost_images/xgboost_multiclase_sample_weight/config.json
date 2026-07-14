@@ -1,0 +1,11 @@
+{
+  "name": "xgboost_images_multiclase_sample_weight",
+  "output_dir": "experiments/xgboost/xgboost_images/xgboost_multiclase_sample_weight",
+  "class_names": [
+    "COM",
+    "COD",
+    "Mixto",
+    "Infeccioso",
+    "Urico"
+  ]
+}

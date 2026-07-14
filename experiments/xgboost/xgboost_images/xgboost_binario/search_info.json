@@ -1,0 +1,6 @@
+{
+  "best_score": 0.9006793791660552,
+  "n_trials": 100,
+  "use_sample_weight": false,
+  "sampler_seed": 57
+}

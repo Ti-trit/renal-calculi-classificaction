@@ -1,0 +1,11 @@
+{
+  "name": "xgboost_images_multiclase",
+  "output_dir": "experiments/ablations/xgboost_patches/xgboost_multiclase_energy_based",
+  "class_names": [
+    "COM",
+    "COD",
+    "Mixto",
+    "Infeccioso",
+    "Urico"
+  ]
+}

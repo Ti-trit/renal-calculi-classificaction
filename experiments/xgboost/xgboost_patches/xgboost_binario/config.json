@@ -1,0 +1,8 @@
+{
+  "name": "patches_xgboost_binario",
+  "output_dir": "experiments/xgboost/xgboost_patches/patches_xgboost_binario",
+  "class_names": [
+    "COM",
+    "Otros"
+  ]
+}

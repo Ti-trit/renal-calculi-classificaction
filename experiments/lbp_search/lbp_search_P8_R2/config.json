@@ -1,0 +1,9 @@
+{
+  "name": "lbp_search_P8_R2",
+  "output_dir": "experiments/lbp_search/lbp_search_P8_R2",
+  "best_params": "experiments/xgboost/xgboost_images/xgboost_binario/best_params.json",
+  "class_names": [
+    "COM",
+    "Otros"
+  ]
+}

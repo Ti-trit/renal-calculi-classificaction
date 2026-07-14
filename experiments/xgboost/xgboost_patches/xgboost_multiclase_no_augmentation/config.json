@@ -1,0 +1,11 @@
+{
+  "name": "patches_xgboost_multiclase",
+  "output_dir": "experiments/xgboost/xgboost_patches/patches_xgboost_multiclase",
+  "class_names": [
+    "COM",
+    "COD",
+    "Mixto",
+    "Infeccioso",
+    "Urico"
+  ]
+}

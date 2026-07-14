@@ -1,0 +1,8 @@
+{
+  "name": "patch_size_320",
+  "output_dir": "experiments/patch_size/320",
+  "class_names": [
+    "COM",
+    "Otros"
+  ]
+}

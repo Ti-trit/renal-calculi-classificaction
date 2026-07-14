@@ -1,0 +1,12 @@
+{
+  "accuracy_mean": 0.6718184558057976,
+  "accuracy_std": 0.07036492658766615,
+  "precision_weighted_mean": 0.6846542558458151,
+  "precision_weighted_std": 0.05982061729019677,
+  "auc_weighted_mean": 0.8779210455152036,
+  "auc_weighted_std": 0.039302320652306315,
+  "f1_weighted_mean": 0.6691829790686725,
+  "f1_weighted_std": 0.06316071130064048,
+  "recall_weighted_mean": 0.6718184558057976,
+  "recall_weighted_std": 0.07036492658766615
+}

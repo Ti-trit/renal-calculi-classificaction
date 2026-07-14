@@ -10,5 +10,7 @@ images
 src/medsam/
 __pycache__/
 .ipynb_checkpoints/
-experiments
 
+experiments/patches
+experiments/patches_320
+*.pt
